@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **ali@gamil.com**
+- 📫 How to reach me **mudassir4227@gmail.com**
 
 - 📄 Know about my experiences [reumsee]()
 
