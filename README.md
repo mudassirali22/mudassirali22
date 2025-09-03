@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm ali</h1>
+<h1 align="center">Hi 👋, I'm Mudassir ali</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 
-- 🔭 I’m currently working on ****Full-Stack Web Development** projects**
+- 🔭 I’m currently working on self ****Full-Stack Web Development** projects**
 
 - 🌱 I’m currently **developing my skills**
 
