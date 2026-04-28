@@ -36,11 +36,11 @@
 <!-- BADGES ROW -->
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=alii22&label=👁️+Profile+Views&color=00cc66&style=flat-square)](https://github.com/alii22)
+[![Profile Views](https://komarev.com/ghpvc/?username=mudassirali22&label=👁️+Profile+Views&color=00cc66&style=flat-square)](https://github.com/mudassirali22)
 ![Status](https://img.shields.io/badge/🟢_Status-Available_for_Collab-00cc66?style=flat-square)
 ![Focus](https://img.shields.io/badge/⚡_Currently-Leveling_Up-0099ff?style=flat-square)
 ![Streak](https://img.shields.io/badge/🔥_Mode-Always_Coding-ff6b35?style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/alii22?label=👥+Followers&style=flat-square&color=8b5cf6)](https://github.com/alii22)
+[![GitHub followers](https://img.shields.io/github/followers/mudassirali22?label=👥+Followers&style=flat-square&color=8b5cf6)](https://github.com/mudassirali22)
 
 </div>
 
@@ -96,19 +96,19 @@ export default new MudassirAli();
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alii22&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=📊+Mudassir's+GitHub+Stats&rank_icon=percentile" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mudassirali22&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=📊+Mudassir's+GitHub+Stats&rank_icon=percentile" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alii22&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&custom_title=🧠+Languages+Used&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassirali22&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&custom_title=🧠+Languages+Used&langs_count=8" height="180"/>
 
 <br/><br/>
 
 <!-- Streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alii22&theme=merko&hide_border=true&background=0d1117&stroke=00ff8830&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=7ee787&dates=6e7681&currStreakNum=ffffff&sideNums=c9d1d9" width="600"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mudassirali22&theme=merko&hide_border=true&background=0d1117&stroke=00ff8830&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=7ee787&dates=6e7681&currStreakNum=ffffff&sideNums=c9d1d9" width="600"/>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alii22&bg_color=0d1117&color=00ff88&line=00cc66&point=7ee787&area=true&area_color=00ff8820&hide_border=true&custom_title=📈+Contribution+Activity+Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mudassirali22&bg_color=0d1117&color=00ff88&line=00cc66&point=7ee787&area=true&area_color=00ff8820&hide_border=true&custom_title=📈+Contribution+Activity+Graph" width="100%"/>
 
 </div>
 
@@ -118,17 +118,17 @@ export default new MudassirAli();
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alii22&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudassirali22&theme=github_dark" width="100%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alii22&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mudassirali22&theme=github_dark"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alii22&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mudassirali22&theme=github_dark"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alii22&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mudassirali22&theme=github_dark"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alii22&theme=github_dark&utcOffset=5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mudassirali22&theme=github_dark&utcOffset=5"/>
 
 </div>
 
@@ -188,7 +188,7 @@ Problem Solving       ███████████████████�
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=alii22&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7&title=MultiLanguage,Commits,Stars,Followers,Issues,PullRequest,Repositories"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mudassirali22&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7&title=MultiLanguage,Commits,Stars,Followers,Issues,PullRequest,Repositories"/>
 
 </div>
 
@@ -199,9 +199,9 @@ Problem Solving       ███████████████████�
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alii22/alii22/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alii22/alii22/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alii22/alii22/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mudassirali22/mudassirali22/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mudassirali22/mudassirali22/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mudassirali22/mudassirali22/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 > ⚠️ **Setup the snake:** Add [this GitHub Action](https://github.com/Platane/snk) to your profile repo to generate the animated snake from your contribution graph.
@@ -219,7 +219,7 @@ Problem Solving       ███████████████████�
 | 💼 LinkedIn | [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mudassir-a-ba721830b) | Professional networking |
 | 💬 Discord | [![Discord](https://img.shields.io/badge/Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/) | Dev community chat |
 | 📧 Email | [![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudassir4227@gmail.com) | Direct contact |
-| 💻 GitHub | [![GitHub](https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alii22) | Source code & repos |
+| 💻 GitHub | [![GitHub](https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mudassirali22) | Source code & repos |
 
 </div>
 
