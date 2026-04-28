@@ -36,7 +36,7 @@
 <!-- BADGES ROW -->
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=alii22&label=👁️+Profile+Views&color=00cc66&style=flat-square)](https://github.com/alii22)
+[![Profile Views](https://komarev.com/ghpvc/?username=alii22&label=👁️+Profile+Views&color=00cc66&style=flat-square)](https://github.com/mudassirali22)
 ![Status](https://img.shields.io/badge/🟢_Status-Available_for_Collab-00cc66?style=flat-square)
 ![Focus](https://img.shields.io/badge/⚡_Currently-Leveling_Up-0099ff?style=flat-square)
 ![Streak](https://img.shields.io/badge/🔥_Mode-Always_Coding-ff6b35?style=flat-square)
@@ -46,13 +46,11 @@
 
 ---
 
-## `> ./about_me.sh` &nbsp; — &nbsp; Who Am I?
+## `./about_me; Who Am I?
 
 ```javascript
 /**
  * @author   Mudassir Ali
- * @version  2.0.0
- * @license  MIT
  * @description  A passionate engineer who turns coffee into code ☕→💻
  */
 
@@ -62,19 +60,18 @@ class MudassirAli extends FullStackDeveloper {
     super();
     this.name        = "Mudassir Ali";
     this.role        = "Full-Stack Web Developer";
-    this.stack       = ["MongoDB", "Express.js", "React.js", "Node.js"];
-    this.tools       = ["Git", "Firebase", "Postman", "Tailwind", "Redux"];
-    this.location    = "Karachi, Pakistan 🇵🇰";
+    this.stack       = ["MongoDB", "Express.js","JavaScript","React.js", "Node.js,"];
+    this.tools       = ["Git","Github", "Firebase", "Postman", "Tailwind", "Redux"];
     this.email       = "mudassir4227@gmail.com";
     this.openSource  = true;
     this.lookingFor  = "Collaborations on open source projects";
   }
 
-  getCurrentWork()  { return "🔭 Self-driven Full-Stack projects"; }
-  getLearning()     { return "🌱 Continuously developing my skills"; }
-  getAsk()          { return "💬 Ask me about anything — React, Node, life 😄"; }
+  getCurrentWork()  { return " Self-driven Full-Stack projects"; }
+  getLearning()     { return " Continuously developing my skills"; }
+  getAsk()          { return " Ask me about anything "; }
   getFunFact()      {
-    return `⚡ I get MORE excited fixing a tricky bug
+    return ` I get MORE excited fixing a tricky bug
             than finishing the actual project 🐛`;
   }
 
@@ -92,23 +89,23 @@ export default new MudassirAli();
 
 ---
 
-## `> git log --stat` &nbsp; — &nbsp; GitHub Analytics
+## `> git log ; GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alii22&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=📊+Mudassir's+GitHub+Stats&rank_icon=percentile" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mudassirali22&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=📊+Mudassir's+GitHub+Stats&rank_icon=percentile" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alii22&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&custom_title=🧠+Languages+Used&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassirali22&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&custom_title=🧠+Languages+Used&langs_count=8" height="180"/>
 
 <br/><br/>
 
 <!-- Streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alii22&theme=merko&hide_border=true&background=0d1117&stroke=00ff8830&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=7ee787&dates=6e7681&currStreakNum=ffffff&sideNums=c9d1d9" width="600"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mudassirali22&theme=merko&hide_border=true&background=0d1117&stroke=00ff8830&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=7ee787&dates=6e7681&currStreakNum=ffffff&sideNums=c9d1d9" width="600"/>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alii22&bg_color=0d1117&color=00ff88&line=00cc66&point=7ee787&area=true&area_color=00ff8820&hide_border=true&custom_title=📈+Contribution+Activity+Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mudassirali22&bg_color=0d1117&color=00ff88&line=00cc66&point=7ee787&area=true&area_color=00ff8820&hide_border=true&custom_title=📈+Contribution+Activity+Graph" width="100%"/>
 
 </div>
 
@@ -118,17 +115,17 @@ export default new MudassirAli();
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alii22&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudassirali22&theme=github_dark" width="100%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alii22&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mudassirali22&theme=github_dark"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alii22&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mudassirali22&theme=github_dark"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alii22&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mudassirali22&theme=github_dark"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alii22&theme=github_dark&utcOffset=5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mudassirali22&theme=github_dark&utcOffset=5"/>
 
 </div>
 
@@ -188,7 +185,7 @@ Problem Solving       ███████████████████�
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=alii22&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7&title=MultiLanguage,Commits,Stars,Followers,Issues,PullRequest,Repositories"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mudassirali22&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7&title=MultiLanguage,Commits,Stars,Followers,Issues,PullRequest,Repositories"/>
 
 </div>
 
@@ -199,9 +196,9 @@ Problem Solving       ███████████████████�
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alii22/alii22/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alii22/alii22/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alii22/alii22/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mudassirali22/mudassirali22/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mudassirali22/mudassirali22/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mudassirali22/mudassirali22/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 > ⚠️ **Setup the snake:** Add [this GitHub Action](https://github.com/Platane/snk) to your profile repo to generate the animated snake from your contribution graph.
