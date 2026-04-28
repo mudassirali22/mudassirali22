@@ -6,7 +6,7 @@
 </div>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=%24+whoami+%E2%86%92+Full-Stack+Developer+%26+Bug+Hunter+%F0%9F%90%9B;%24+git+log+--oneline+%E2%86%92+building+cool+stuff+daily+%F0%9F%9A%80;%24+npm+run+passion+%E2%86%92+Open+Source+%7C+MERN+%7C+Firebase;%24+echo+%22available+for+collabs%22+%E2%86%92+true+%E2%9C%85;%24+cat+fun_fact.txt+%E2%86%92+bugs+ARE+the+feature+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=%24+Full-Stack+Developer+%26+Bug+Hunter+%F0%9F%90%9B;%24+git+log+--oneline+%E2%86%92+building+cool+stuff+daily+%F0%9F%9A%80;%24+npm+run+passion+%E2%86%92+Open+Source+%7C+MERN+%7C+Firebase;%24+echo+%22available+for+collabs%22+%E2%86%92+true+%E2%9C%85;%24+cat+fun_fact.txt+%E2%86%92+bugs+ARE+the+feature+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 ---
